@@ -1,0 +1,5 @@
+To provide online multiplayer features, we transmit a Firebase Authentication anonymous user identifier, the display name chosen by the user, an avatar identifier, room codes, gameplay information, and match results to Firebase Realtime Database. 
+This information is used to run the online room and may be displayed to other participants in that room. 
+Requests for deletion or privacy inquiries can be sent to `gihun.choe124@gmail.com`.
+If a user optionally links a Google account, Firebase Authentication processes the account link. 
+The data categories, retention period, and deletion procedure disclosed in this policy and in the Data safety form will reflect the account-linking feature actually available in the released app and the active Firebase configuration.
